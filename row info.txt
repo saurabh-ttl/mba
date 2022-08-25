@@ -1,0 +1,19 @@
+For OTC 6000(4PArts) invoice 1746 total parts and 3046770  combination
+1146 cummins parts
+67022 total rules
+1098 filtered rules
+
+For OTC 6000(5 parts) invoice 1746 total parts and 3046770  combination
+1146 cummins parts
+9634 total rules
+1789 filtered rules
+
+For OTC 2000 invoice 874 total parts and 763002 combination
+588 cummins parts
+6862 total rules
+1301 filtered rules
+
+For JC 6000(5 parts) invoice 1894 total parts and 3585342 combination
+1056 cummins parts
+1270 total rules
+215 filtered rules
